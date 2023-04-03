@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Neoway_Documentation'
+project = 'Neoway'
 copyright = '2023, Neoway Technology'
 author = 'Tang'
 release = '1.0.0'
