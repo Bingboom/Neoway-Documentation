@@ -7,14 +7,14 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Neoway_Documentation'
-copyright = '2023, Tangxiabing'
-author = 'Tangxiabing'
+copyright = '2023, Neoway Technology'
+author = 'Tang'
 release = '1.0.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ['recommonmark''sphinx_markdown_tables']
 
 templates_path = ['_templates']
 exclude_patterns = []
