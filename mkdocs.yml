@@ -1,9 +1,9 @@
-site_name: Test docs
+site_name: NeowayFAE WiKi
 site_description: 'A docs test'
-site_author: 'Michael Hausenblas'
+site_author: 'Tang Xiabing'
 docs_dir: docs/
-repo_name: 'mhausenblas/mkdocs-template'
-repo_url: 'https://github.com/mhausenblas/mkdocs-template'
+repo_name: 'Bingboom/Neoway-Documentation'
+repo_url: 'https://github.com/Bingboom/Neoway-Documentation.git'
 nav:
     - Home: index.md
 theme:
