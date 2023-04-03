@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'mkdocs-template'
+project = 'Neoway_Documentation'
 copyright = '2023, Tangxiabing'
 author = 'Tangxiabing'
 release = '1.0.0'
